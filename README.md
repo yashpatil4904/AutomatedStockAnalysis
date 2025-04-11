@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stock Tracker Project
 
 A comprehensive stock market analysis tool that combines web scraping, sentiment analysis, and data visualization to track and analyze stock market trends through social media data.
@@ -240,9 +239,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-For any queries or suggestions, please open an issue in the repository. 
-=======
-# AutomatedStockAnalysis
->>>>>>> 6b6d11e62047f4c329378960180a6b07f73a162d
